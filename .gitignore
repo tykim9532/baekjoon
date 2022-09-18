@@ -33,3 +33,9 @@
 .vs
 .vscode
 .gitignore
+baekjoon.vcxproj
+baekjoon.vcxproj.filters
+baekjoon.vcxproj.user
+CppProperties.json
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
